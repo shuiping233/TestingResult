@@ -1,0 +1,36 @@
+{
+  "author": {
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49360196?u=44f078476f2b5e47b0d0bad80ae85828be98884f&v=4",
+    "login": "shuiping233",
+    "url": "https://github.com/shuiping233"
+  },
+  "body": "close issues！",
+  "comments": {
+    "nodes": [
+      {
+        "author": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/49360196?u=44f078476f2b5e47b0d0bad80ae85828be98884f&v=4",
+          "login": "shuiping233",
+          "url": "https://github.com/shuiping233"
+        },
+        "body": "close issues #3！",
+        "createdAt": "2023-01-02T08:45:46Z",
+        "url": "https://github.com/shuiping233/test/issues/3#issuecomment-1368745411"
+      }
+    ],
+    "pageInfo": {
+      "endCursor": "Y3Vyc29yOnYyOpHOUZVlww==",
+      "hasNextPage": false
+    },
+    "totalCount": 1
+  },
+  "createdAt": "2023-01-02T08:45:35Z",
+  "id": "I_kwDOImaJHc5aXrTx",
+  "labels": {
+    "nodes": []
+  },
+  "number": 3,
+  "state": "CLOSED",
+  "title": "close！",
+  "url": "https://github.com/shuiping233/test/issues/3"
+}
